@@ -15,6 +15,7 @@ from src.database.db import (
     get_teacher_subjects
 )
 from src.components.dialog_create_subject import create_subject_dialog
+from src.components.dialog_share_subject import share_subject_dialog
 import time
 
 
